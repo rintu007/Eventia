@@ -1,0 +1,27 @@
+
+.container{
+    padding-left: 15px;
+}
+   button{
+       float:right;
+   }
+   table {
+  border-collapse: collapse;
+  
+   }
+   
+
+   th, td {
+   text-align: left;
+   padding: 3px;
+   }
+
+ 
+   th {
+   background-color: #5F9EA0;
+   color: white;
+   }
+ 
+
+ 
+   
