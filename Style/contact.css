@@ -1,0 +1,46 @@
+#midcontact1{
+  background-color: #0c2326;
+  margin: auto;
+  width: 50%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+  height: 650px;
+  
+
+}
+body {font-family: Arial, Helvetica, sans-serif;}
+
+p,h1,h2{
+ font-family: sans-serif, "Helvetica Neue", "Lucida Grande", Arial;
+
+  letter-spacing: 3px;
+
+}
+
+/* Full-width input fields */
+input[type=text], input[type=number],textarea {
+  width: 60%;
+  padding: 20px 20px;
+  margin: 20px 40px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+
+}
+label{
+	color: #e91663;
+  letter-spacing: 3px;
+}
+
+.sendbutton {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
